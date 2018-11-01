@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: royalblue;
+}
+
+
+body{
+    text-align:center;
+    background-image:url("http://static-15.sinclairstoryline.com/resources/media/be2ef2a7-83ff-4621-b2f8-593cb5e9f4d3-large16x9_1280x720_71229P00TLJLT.png?1530564445070");
+}
+
+.white{
+    color:white;
+}
+.royalblue{
+    color:royalblue;
+}
+.skyblue{
+    color:skyblue;
+}
+.red{
+    color:red;
+}
+.yellow{
+    color:yellow;
+}
